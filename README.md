@@ -2,7 +2,7 @@
 
 ## Built with Python and pygame
 
-## How to run (example)
+## How to run
 
 ```
 pip3 install -r requirements.txt
