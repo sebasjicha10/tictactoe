@@ -1,6 +1,7 @@
 # Tic-Tac-Toe
 
-## Built with Python and pygame
+## Built with Python and pygame - Adversarial search
+Program running: https://youtu.be/rcha56gDhJU
 
 ## How to run
 
